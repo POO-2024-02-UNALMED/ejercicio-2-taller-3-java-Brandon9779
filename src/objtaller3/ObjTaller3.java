@@ -1,7 +1,7 @@
 package objtaller3;
 
 import compras.*;
-import gestionhumana.Empleado;
+import gestionHumana.Empleado;
 import java.util.ArrayList;
 
 public class ObjTaller3 {
