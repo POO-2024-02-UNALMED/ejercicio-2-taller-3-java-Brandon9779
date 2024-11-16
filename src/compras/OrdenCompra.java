@@ -1,7 +1,7 @@
 package compras;
 
 import java.util.ArrayList;
-import gestionhumana.Empleado;
+import gestionHumana.Empleado;
 
 public class OrdenCompra {
 
